@@ -1,4 +1,4 @@
-### Oi, eu sou Vitor Ales e seja bem vindo(a) ao meu perfil 👋
+### Oi, eu sou Vitor Alves e seja bem vindo(a) ao meu perfil 👋
 
 - 🌱 Bem-vindo ao meu perfil, que será utilizado para expor meus projetos pessoais e o andamento dos meus estudos na área de desenvolvimento. Atualmente, estou estudando Front-end, QA e SQL, pois sou apaixonado por tecnologia.
 ##
