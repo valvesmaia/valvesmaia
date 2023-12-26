@@ -1,7 +1,8 @@
 ### Oi, eu sou Vitor Ales e seja bem vindo(a) ao meu perfil 👋
 
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: ...
+- 🌱 Introdução
+Bem-vindo ao meu perfil, que será utilizado para expor meus projetos pessoais e o andamento dos meus estudos na área de desenvolvimento. Atualmente, estou estudando Front-end, QA e SQL, pois sou apaixonado por tecnologia.
+- 😄 Pronouns: Ele/DELE
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
