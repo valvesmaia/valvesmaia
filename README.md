@@ -1,21 +1,30 @@
-### Olá, eu sou o Vitor 👋
+# Vitor Alves
 
-Desenvolvedor Web focado em aplicações fullstack com **PHP, MySQL e Vue.js**.
+Desenvolvedor Web fullstack, com foco em **PHP, MySQL e Vue.js**. Gosto de construir aplicações completas — do banco de dados à interface — priorizando código legível e decisões técnicas justificadas.
 
-🌱 Atualmente aprofundando estudos em desenvolvimento backend e boas práticas de segurança.
+Atualmente aprofundando estudos em arquitetura backend, segurança de aplicações e boas práticas de API REST.
 
-🔗 [LinkedIn](https://linkedin.com/in/valvesmaia) · 📧 valvesmaia01@gmail.com
-
----
-
-#### 🚀 Projeto em destaque
-
-**[Sistema de Infraestrutura Escolar - São Paulo](https://github.com/valvesmaia/infraestrutura-escolar-sp)**
-Aplicação fullstack (PHP + Vue.js + MySQL) para gestão de dados de infraestrutura escolar, com upload de CSV, CRUD completo e autenticação.
+📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/valvesmaia/) · valvesmaia01@gmail.com
 
 ---
 
-#### 🛠️ Stack
+## 🚀 Projeto em destaque
+
+### [Sistema de Infraestrutura Escolar — São Paulo](https://github.com/valvesmaia/infraestrutura-escolar-sp)
+
+Aplicação fullstack para gestão de dados de infraestrutura das escolas municipais de São Paulo, a partir de dados públicos da Secretaria de Educação.
+
+- **Stack:** PHP 8 (PDO) no backend, Vue.js 3 + Bootstrap no frontend, MySQL
+- **Funcionalidades:** importação de CSV com validação, CRUD completo, autenticação com controle de sessão
+- **Decisões técnicas:** separação clara entre API REST (backend) e SPA (frontend); uso de prepared statements para prevenir SQL Injection; seleção de 13 campos relevantes entre os 173 disponíveis no dataset original, priorizando escopo e manutenibilidade dentro do prazo
+
+---
+
+## 🛠️ Tecnologias
+
+**Backend:** PHP · MySQL · PDO
+**Frontend:** Vue.js · JavaScript · HTML5 · CSS3 · Bootstrap
+**Ferramentas:** Git · GitHub · XAMPP/Apache
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
